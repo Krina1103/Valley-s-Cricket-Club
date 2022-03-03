@@ -1,0 +1,37 @@
+[{
+			"name": "Test Match",
+			"dates": [
+				"March 11th",
+				"April 15th",
+				"May 20th",
+				"June 22nd",
+				"July 25th",
+				"August 10th",
+				"September 12th"
+			],
+			"description": "40 over match which will be played for 2 days. Cricket uniform, helmet required"
+		},
+		{
+			"name": "Super 8 Match",
+			"dates": [
+				"March 17th",
+				"May 22nd",
+				"July 27th",
+				"September 20th"
+			],
+			"description": "Full series of 8 over matches will be played. Cricket kit, uniform, helmet required"
+		},
+		{
+			"name": "Hard ball Match",
+			"dates": [
+				"March 20th",
+				"April 17th",
+				"May 25th",
+				"June 25th",
+				"July 31st",
+				"August 12th",
+				"September 17th"
+			],
+			"description": "Match will be played with hard ball. Helmet, Cricket uniform and protectors required"
+		}
+]
